@@ -13,7 +13,7 @@ function App(){
 	{
 		id:'e2',
 		title:"Car EMI",
-		date:new Date(2022,2,21),
+		date:new Date(2022,2,25),
 		amount:25000,
 	},
 	{
